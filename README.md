@@ -1,2 +1,2 @@
 # someExample
-some example
+A collection of some sample example
